@@ -2,7 +2,7 @@ import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import cors from "cors"
-import userRoute from "./route/User.router.js"
+import userRoute from "./routes/user.router.js"
 import serverless from "serverless-http";
 
 const app = express();
