@@ -1,3 +1,4 @@
+import express from "express"
 import User from "../model/user.schema.js";
 import bcryptjs from "bcryptjs";
 
@@ -65,3 +66,11 @@ export const login = async (req, res) => {
         res.status(500).json({ message: "internal Server Error" })
     }
 }
+
+
+const router = express.Router();
+
+router.post("/register", register)
+router.post("/login", login)
+
+export default router
