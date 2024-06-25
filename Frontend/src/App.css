@@ -1,0 +1,177 @@
+:root {
+    --light-green: rgb(187 247 208);
+    --green: rgb(34 197 94);
+    --dark-green: rgb(21 128 61);
+}
+
+section {
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.dropdown ul.dropdown-content li {
+    padding: .3rem 0;
+    color: black;
+}
+
+label {
+    display: block;
+    margin-top: 2rem !important;
+    font-size: large;
+    color: green;
+    margin-bottom: 4px;
+}
+
+label::after {
+    content: "*";
+    color: red;
+    margin-left: 3px;
+}
+
+.msg {
+    text-align: end;
+    color: red;
+}
+
+.content-heading h5 span {
+    text-decoration: underline;
+    color: rgb(99 102 241) !important;
+}
+
+input,
+textarea {
+    padding: .8rem !important;
+    width: 100%;
+    font-size: 1.3rem !important;
+    border-radius: 15px;
+    background-color: rgb(219 234 254);
+    outline: 0;
+}
+
+.inputt {
+    background-color: rgb(219 234 254);
+    border-radius: 15px;
+}
+
+.inputt:focus {
+    background-color: rgb(191 219 254);
+}
+
+.inputt input {
+    background: none;
+}
+
+input:focus,
+textarea:focus {
+    background-color: rgb(191 219 254);
+}
+
+.btn {
+    font-weight: bolder;
+    border: none;
+    transition-duration: .5s !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+
+.btn-main {
+    width: fit-content;
+    padding: 0 1.4rem !important;
+    height: 3.5rem !important;
+    font-size: 1.2rem !important;
+    text-transform: uppercase;
+    position: relative !important;
+    background: none !important;
+    display: flex !important;
+    align-items: center !important;
+    border-radius: 50px !important;
+    z-index: 0;
+    font-weight: 500 !important;
+    color: rgb(30 41 59 / var(--tw-text-opacity)) !important;
+    transition: all .2s ease !important;
+}
+
+.btn-main:hover {
+    color: white !important;
+}
+
+.btn-main::before {
+    content: "";
+    z-index: -1;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: rgb(219 234 254) !important;
+    transition: all 0.3s ease !important;
+}
+
+.btn-main:hover:before {
+    content: "";
+    width: 100%;
+    background-color: rgb(129 140 248) !important;
+    /* background-color: rgb(74 222 128 / var(--tw-text-opacity)) !important; */
+}
+
+
+.container {
+    width: 88% !important;
+    margin: auto;
+}
+
+.container-full {
+    width: 100% !important;
+}
+
+/* Header styling */
+header {
+    z-index: 99;
+}
+
+header .logo {
+    font-family: "Cinzel Decorative", serif;
+}
+
+/* Home Styling */
+section#home-main {
+    min-height: 80vh !important;
+    user-select: none;
+    /* background-color: #007FFF; */
+}
+
+#home-main .home-content .home-head {
+    font-size: 4rem;
+    line-height: 4.3rem;
+    font-family: "Cinzel Decorative", serif;
+    /* font-family: "Permanent Marker"; */
+}
+
+@media only screen and (max-width: 700px) {
+    section#home-main {
+        display: flex;
+        align-items: center !important;
+    }
+
+    #home-main .home-content {
+        min-height: 88vh;
+        background-image: url('https://bestwpware.com/html/tf/penn/assets/images/all-img/home-image.png');
+        background-attachment: scroll;
+        background-size: auto;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: left top;
+    }
+
+    #home-main .home-content .home-head {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+}
+
+/* #home-main {
+    height: 10vh !important;
+} */

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Anish Bankar",
+        "img": "https://i.ibb.co/YBDR8vR/f3bd0c56-9349-4d06-8785-ae81dd31f2ea.jpg",
+        "color": "#5AC3B0",
+        "profession": "Programming developer",
+        "message": "The best way to predict the future is to invent it."
+    },
+    {
+        "name": "James feroundo",
+        "img": "https://th.bing.com/th/id/R.14f0d99ac07d35bea61431f492429c30?rik=lS%2fN2%2b8XU2O5Ag&riu=http%3a%2f%2fthispix.com%2fwp-content%2fuploads%2f2015%2f06%2fedited-TSP_3683-1.jpg&ehk=b6SVTDjHi%2fo2KGIQMhg1OVOQo4rv5vWKM0%2be0%2bnc9Fs%3d&risl=&pid=ImgRaw&r=0",
+        "color": "#D6A3FB",
+        "profession": "Content writter",
+        "message": "Code is like humor. When you have to explain it, its bad."
+    },
+    {
+        "name": "Alex Clayton",
+        "img": "https://th.bing.com/th/id/OIP.A1CwO5Q3kquQPVeE9y4WWgAAAA?rs=1&pid=ImgDetMain",
+        "color": "#00ABE1",
+        "profession": "graphics designer",
+        "message": "Programming is the art of telling a computer what to do."
+    },
+    {
+        "name": "Jeremy Ferrer",
+        "img": "https://th.bing.com/th/id/OIP.mJVl27IsoWwgeIT5zaE85gHaHa?rs=1&pid=ImgDetMain",
+        "color": "#E5B9A8",
+        "profession": "Web designer",
+        "message": "Software is a great combination of artistry and engineering."
+    },
+    {
+        "name": "Julia wilson",
+        "img": "https://th.bing.com/th/id/OIP.JnfYDuj42vD335IGs1AI0gHaFV?pid=ImgDet&w=474&h=341&rs=1",
+        "color": "#259B9A",
+        "profession": "Manager",
+        "message": "The best software is written by teams who know how to work together."
+    },
+    {
+        "name": "Patrick  Hopper",
+        "img": "https://th.bing.com/th/id/OIP.6PrDZq0y-vuReDJO6-wziwHaHa?w=960&h=960&rs=1&pid=ImgDetMain",
+        "color": "#1BA098",
+        "profession": "tester",
+        "message": "Programming is not about typing, its about thinking."
+    }
+]

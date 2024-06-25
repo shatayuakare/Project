@@ -1,0 +1,68 @@
+[
+    {
+        "icon": "bx bx-book-open",
+        "color": "bg-green-100",
+        "title": "Learn More Anywhere",
+        "description": "Learn creative skills to achieve your personal and professional goals."
+    },
+    {
+        "icon": "bx bx-chalkboard",
+        "color": "bg-blue-100",
+        "title": "Expert Instructor",
+        "description": "The best online coding tutors. Our expert tutors offer personalized  lessons to help you master programming skills efficiently."
+    },
+    {
+        "icon": "bx bxl-microsoft-teams",
+        "color": "bg-orange-100",
+        "title": "Team Management",
+        "description": "Unlock your leadership potential to create value, drive change, and increase success in your organisation."
+    },
+    {
+        "icon": "bx bx-book-bookmark",
+        "color": "bg-zinc-100",
+        "title": "Course Planing",
+        "description": "In this section, we offer broad strategies to inform your overall course design plan."
+    },
+    {
+        "icon": "bx bx-tv",
+        "color": "bg-slate-100",
+        "title": "Teacher Monitoring",
+        "description": "Engaging in one-to-one contacts with students about their work and helping students complete their work."
+    },
+    {
+        "icon": "bx bx-support",
+        "color": "bg-purple-100",
+        "title": "24/7 Support",
+        "description": "Get help from expert tutors, 24/7."
+    },
+    {
+        "icon": "bx bx-code-alt",
+        "color": "bg-yellow-100",
+        "title": "Learn to code at your own pace",
+        "description": "Our coding tutors customize their teaching methods to fit your individual learning style and pace."
+    },
+    {
+        "icon": "bx bx-calendar-event",
+        "color": "bg-pink-100",
+        "title": "Schedule tutoring sessions with ease",
+        "description": "Our platform offers flexible scheduling , so you can focus on learning without any hassles."
+    },
+    {
+        "icon": "bx bx-note",
+        "color": "bg-gray-100",
+        "title": "Notes",
+        "description": "Get ready to ace your BCA studies with BCA Notes! Our user-friendly interface offers simple and easy-to-understand notes on a wide range of computer science subjects."
+    },
+    {
+        "icon": "bx bx-book-heart",
+        "color": "bg-red-100",
+        "title": "Syllabus",
+        "description": "The syllabus outlines the course purpose, content, and learning objectives. Get all your Syllabus here very easily"
+    },
+    {
+        "icon": "bx bx-book-content",
+        "color": "bg-cyan-100",
+        "title": "Question Papers",
+        "description": "Here we are also going to provide you all years question papers,so that you can have some basic knowledge that what kind of questions are likely to appear in the exam. so that you can prepare for your exam accordingly."
+    }
+]

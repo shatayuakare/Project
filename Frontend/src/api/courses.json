@@ -1,0 +1,223 @@
+[
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s",
+        "name": "HTML and HTML5",
+        "description": "HTML5 is the latest standard of Hypertext Markup Language, the code that describes the structure and presentation of web pages.",
+        "category": "IT Field",
+        "url": "https://html.com/",
+        "like": "false"
+    },
+    {
+        "img": "https://thumbs.dreamstime.com/b/software-engineering-concept-modern-big-text-word-people-icon-related-flat-style-vector-196739639.jpg",
+        "name": "Software Engineering - I",
+        "description": "Software Design is the process of transforming user requirements into a suitable form, which helps the programmer in software coding and implementation.",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/",
+        "like": "false"
+    },
+    {
+        "img": "https://res.cloudinary.com/dyd911kmh/image/upload/v1646566163/about_sql_5dcf267e9c.jpg",
+        "name": "SQL And PL/SQL",
+        "description": "Structured query language (SQL) and procedural language extension to structured query language (PL/SQL) are relational database languages used to help organisations handle and store large amounts of data.",
+        "category": "college",
+        "semister": "4th semester",
+        "url": "https://www.geeksforgeeks.org/sql-tutorial/?ref=shm",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.V3Arfy3YrRWyTassxyt_VgHaEK?rs=1&pid=ImgDetMain",
+        "name": "Theory Of Computation",
+        "description": "The theory of computation is a field in computer science that uses the elements of automatic theory, computability theory, and computational complexity theory to understand the nature of computing problems and how computing operations are performed",
+        "category": "college",
+        "semister": "4th semester",
+        "url": "https://www.geeksforgeeks.org/introduction-of-theory-of-computation/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.ZMtOK3Reok2wyAm0rWQdqQAAAA?rs=1&pid=ImgDetMain",
+        "name": "Operation Research- I",
+        "description": "Operations research, often shortened to the initialism OR, is a discipline that deals with the development and application of analytical methods to improve decision-making.",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.geektonight.com/operations-research/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.ZMtOK3Reok2wyAm0rWQdqQAAAA?rs=1&pid=ImgDetMain",
+        "name": "Operation Research- II",
+        "description": "Operations research, often shortened to the initialism OR, is a discipline that deals with the development and application of analytical methods to improve decision-making.",
+        "category": "college",
+        "semister": "4th semester",
+        "url": "https://www.geektonight.com/operations-research/",
+        "like": "false"
+    },
+    {
+        "img": "https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&ssl=1",
+        "name": "Web  Technology-I",
+        "description": "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the Internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.geeksforgeeks.org/web-technology/",
+        "like": "false"
+    },
+    {
+        "img": "https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&ssl=1",
+        "name": "Web  Technology-II",
+        "description": "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the Internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers",
+        "category": "college",
+        "semister": "4th semster",
+        "url": "https://www.geeksforgeeks.org/web-technology/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.XwXuKYMpndyLM6Vn-3vTKQHaEL?rs=1&pid=ImgDetMain",
+        "name": "Digital Electronics-I",
+        "description": "Digital electronics is a field of electronics involving the study of digital signals and the engineering of devices that use or produce them. This is in contrast to analog electronics which work primarily with analog signals.",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.javatpoint.com/digital-electronics",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.XwXuKYMpndyLM6Vn-3vTKQHaEL?rs=1&pid=ImgDetMain",
+        "name": "Digital Electronics-II",
+        "description": "Digital electronics is a field of electronics involving the study of digital signals and the engineering of devices that use or produce them. This is in contrast to analog electronics which work primarily with analog signals.",
+        "category": "college",
+        "semister": "4th semester",
+        "url": "https://www.javatpoint.com/digital-electronics",
+        "like": "false"
+    },
+    {
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230304231205/C-Language2.png",
+        "name": "Programming in C++",
+        "description": "This language allows developers to write clean and efficient code for large applications and software development, game development, and operating system programming. It is an expansion of the C programming language to include Object Oriented Programming(OOPs) and is used to develop programs for computers.",
+        "category": "IT Field",
+        "url": "https://www.geeksforgeeks.org/c-plus-plus/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.FYvlTUixUxVNBxNR05LHUAAAAA?rs=1&pid=ImgDetMain",
+        "name": "system analysis and design",
+        "description": "System Analysis and Design (SAD) is a comprehensive process that involves understanding and specifying in detail what a system should do and how the components of the system should be implemented and work together",
+        "category": "college",
+        "semister": "2nd semester",
+        "url": "https://www.geeksforgeeks.org/system-analysis-system-design/",
+        "like": "false"
+    },
+    {
+        "img": "https://2learn.in/wp-content/uploads/2023/10/Numerical-Methods-1-600x450.jpg",
+        "name": "Numerical Method",
+        "description": "In numerical analysis, a numerical method is a mathematical tool designed to solve numerical problems. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.",
+        "category": "college",
+        "semister": "2nd semester",
+        "url": "https://www.geeksforgeeks.org/difference-between-bisection-method-and-newton-raphson-method/?ref=lbp",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/R.738205938f2a7ba29c83b25ed90dba2c?rik=U%2bCKHpyAa9IgYA&riu=http%3a%2f%2ftechrushs.com%2fwp-content%2fuploads%2f2021%2f05%2fAn-Overview-Of-Linux-Operating-Systems.jpg&ehk=1ohbLuQv%2fqkzGQTtNB7pAOFpdhhl0BoEe0SaurfJQLU%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Linux Operating System",
+        "description": "The Linux Operating System is a type of operating system that is similar to Unix, and it is built upon the Linux Kernel. The Linux Kernel is like the brain of the operating system because it manages how the computer interacts with its hardware and resources.",
+        "category": "IT Field",
+        "url": "https://www.geeksforgeeks.org/introduction-to-linux-operating-system/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.GsunL_ELDLfYF3PU36-GCwHaDg?rs=1&pid=ImgDetMain",
+        "name": "Discrete Mathematics -I",
+        "description": "Discrete Mathematics is a branch of mathematics that is concerned with “discrete” mathematical structures instead of “continuous”. Discrete mathematical structures include objects with distinct values like graphs, integers, logic-based statements, etc.",
+        "category": "college",
+        "semister": "1st semester",
+        "url": "https://www.geeksforgeeks.org/discrete-mathematics-tutorial/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.GsunL_ELDLfYF3PU36-GCwHaDg?rs=1&pid=ImgDetMain",
+        "name": "Discrete Mathematics -II",
+        "description": "Discrete Mathematics is a branch of mathematics that is concerned with “discrete” mathematical structures instead of “continuous”. Discrete mathematical structures include objects with distinct values like graphs, integers, logic-based statements, etc.",
+        "category": "college",
+        "semister": "2nd semester",
+        "url": "https://www.geeksforgeeks.org/discrete-mathematics-tutorial/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.bkzek75iDsJYY-1GivW87AAAAA?rs=1&pid=ImgDetMain",
+        "name": "E Commerce",
+        "description": "E-commerce, or electronic commerce, refers to the buying and selling of goods and services over the internet. It involves the use of electronic platforms, such as websites, mobile applications, and social media, to conduct transactions between businesses and consumers or between businesses.",
+        "category": "college",
+        "semister": "2nd semester",
+        "url": "https://www.geeksforgeeks.org/e-commerce/",
+        "like": "false"
+    },
+    {
+        "img": "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/f9/48/f3/f948f362-074c-b6c4-2aa4-d01d7aa14a37/d97ed5e0-177f-457f-a551-b5721267e8f3_51.jpg/750x750bb.jpeg",
+        "name": "Computer Fundamental",
+        "description": "This Computer Fundamental Tutorial covers everything from basic to advanced concepts, including computer hardware, software, operating systems, peripherals, etc",
+        "category": "college",
+        "semister": "1st semester",
+        "url": "https://www.geeksforgeeks.org/computer-fundamentals-tutorial/",
+        "like": "false"
+    },
+    {
+        "img": "https://i.pinimg.com/originals/aa/03/f6/aa03f67c3201efe632f88676b2e00b12.jpg",
+        "name": "Statistical Methods ",
+        "description": "tatistics is a mathematical study that deals with collection and analysis. steps include data collection, analysis of data, perception, and organization or summarization of data.",
+        "category": "college",
+        "semister": "1st semester",
+        "url": "https://www.intellspot.com/statistical-methods/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.s6Nc3hK98loPXP_D5GVxlwHaD4?rs=1&pid=ImgDetMain",
+        "name": "Operating system ",
+        "description": "An Operating System(OS) is software that manages and handles the hardware and software resources of a computer system. It provides interaction between users of computers and computer hardware. An operating system is responsible for managing and controlling all the activities and sharing of computer resources.",
+        "category": "college",
+        "semister": "1st semester",
+        "url": "https://www.geeksforgeeks.org/operating-systems/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.vBsa1QHrjmwFOYLENBjgSAHaCF?rs=1&pid=ImgDetMain",
+        "name": "Office Automation",
+        "description": " office automation systems are a set of tools or software that collects, store, modify, analyze and transfer data independent of human intervention. The efficient system ensures accuracy and streamlines the processes.",
+        "category": "college",
+        "semister": "1st semester",
+        "url": "https://www.pockethrms.com/blog/what-is-office-automation-system/#:~:text=In%20simple%20words%2C%20office%20automation%20systems%20are%20a,more%20than%20just%20digitalisation%20of%20the%20information%20storage.",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.LXoJYcPqYaMcP8O_yd9oSAHaDt?rs=1&pid=ImgDetMain",
+        "name": "Database Management System",
+        "description": "Database Management System is a software or technology used to manage data from a database. Some popular databases are MySQL, Oracle, MongoDB, etc. DBMS provides many operations e.g. creating a database, Storing in the database, updating an existing database, delete from the database.",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.geeksforgeeks.org/dbms/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/R.06224e1a562d818267daff33bac8d19d?rik=a23GbCqJFhNENw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-j5dpb-zA6cc%2fUpsPapioq0I%2fAAAAAAAACrU%2ffrxru08OXGg%2fs1600%2fBelajar%2bVisual%2bBasic%2b6.0.jpg&ehk=7POtdG1YU8R6P1YYQidP%2bl7jhUk0NiIl3AeGt15h79U%3d&risl=&pid=ImgRaw&r=0",
+        "name": "visual basic programming",
+        "description": "Visual Basic, originally called Visual Basic.NET, is a multi-paradigm, object-oriented programming language, implemented on.NET, Mono, and the.NET Framework.",
+        "category": "college",
+        "semister": "3rd semester",
+        "url": "https://www.vbtutor.net/lesson1.html",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.aRqmY89NAHfWoymwSaySHAHaEK?rs=1&pid=ImgDetMain",
+        "name": "JAVA",
+        "description": "Developed by Sun Microsystems in 1995, Java is a highly popular, object-oriented programming language. This platform independent programming language is utilized for Android development, web development, artificial intelligence, cloud applications, and much more.",
+        "category": "IT Field",
+        "url": "https://www.geeksforgeeks.org/java/",
+        "like": "false"
+    },
+    {
+        "img": "https://th.bing.com/th/id/OIP.t9Df1pTr9GhAbm5YPaxVRgHaEK?rs=1&pid=ImgDetMain",
+        "name": "Software Testing",
+        "description": "oftware testing is an important process in the software development lifecycle. It involves verifying and validating that a software application is free of bugs, meets the technical requirements set by its design and development, and satisfies user requirements efficiently and effectively.",
+        "category": "college",
+        "semister": "6th semester",
+        "url": "https://www.geeksforgeeks.org/software-testing-basics/",
+        "like": "false"
+    }
+]

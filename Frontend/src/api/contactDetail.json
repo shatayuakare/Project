@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "bx bx-map-alt",
+        "title": "Our Location",
+        "data": [
+            "Mouda, Nagpur",
+            "Nagpur Maharastra (441104)"
+        ]
+    },
+    {
+        "icon": "bx bx-mobile",
+        "title": "Telephone",
+        "data": [
+            "+91 9359966102",
+            ""
+        ]
+    },
+    {
+        "icon": "bx bx-envelope",
+        "title": "Send Email",
+        "data": [
+            "shatayuakare121@outlook.com",
+            "shatayuakare121@hotmail.com"
+        ]
+    }
+]
