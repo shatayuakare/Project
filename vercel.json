@@ -1,8 +1,9 @@
 {
       "version": 2,
-  "builds": [
+      "name":"codersociety",
+  "build": [
     {
-      "src": "index.js",
+      "src": "./index.js",
       "use": "@vercel/node",
     }
   ]
